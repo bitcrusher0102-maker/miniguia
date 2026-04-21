@@ -1,4 +1,8 @@
-#🧠 Miniguia de Estudo
+# 🔐 Mini Guia de Segurança Cibernética
+
+📌 Projeto desenvolvido para o desafio da DIO, explorando o uso do NotebookLM como ferramenta de aprendizagem ativa em Segurança Cibernética.
+
+---
 
 ## 🔐 O que é Segurança Cibernética?
 
