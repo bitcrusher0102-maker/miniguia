@@ -1,5 +1,5 @@
-#🔐 Mini Guia de Estudos: Fundamentos de Segurança Cibernética
-##📌 Sobre o Projeto
+# 🔐 Mini Guia de Estudos: Fundamentos de Segurança Cibernética
+## 📌 Sobre o Projeto
 
 Este repositório apresenta a construção de um Caderno Temático utilizando o NotebookLM, com foco em Segurança Cibernética.
 
