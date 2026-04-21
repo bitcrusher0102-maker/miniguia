@@ -1,9 +1,11 @@
 #🧠 Miniguia de Estudo
+
 ## 🔐 O que é Segurança Cibernética?
 
 Segurança cibernética é o conjunto de práticas, tecnologias e processos utilizados para proteger sistemas, redes e dados contra ataques digitais e acessos não autorizados.
 
 ⚠️ Principais Ameaças
+
 Malware: software malicioso projetado para invadir sistemas, roubar dados ou causar danos, incluindo vírus, trojans e spyware.
 Ransomware: tipo de malware que bloqueia o acesso aos dados da vítima e exige pagamento para liberação.
 Phishing: técnica de engenharia social que engana usuários para obter informações sensíveis, como senhas e dados bancários.
